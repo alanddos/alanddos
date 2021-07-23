@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanddos
 - 👀 I’m interested in learn about web word
 - 🌱 I’m currently learning jasper Reports
-- 💞️ I’m looking to collaborate on Angular web/desk Apps
+- 💞️ I’m looking to collaborate on Angular/React web Apps
 - 📫 How to reach me: 67 9 9808 15 42 - alanddos@gmail.com
 
 <!---
